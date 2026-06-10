@@ -69,8 +69,8 @@ Dataset Characteristics:
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/Fethulmubin/PCA_visualization/
+cd PCA_visualization
 ```
 
 Create a virtual environment:
